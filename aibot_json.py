@@ -24,9 +24,7 @@ class Aibot_JSON:
     @staticmethod
     def next_birthday(theday):
         bd = sorted(data, key=lambda k: datetime.datetime.strptime(k['birthday'][5:], '%m-%d'))
-
         be = list(filter(lambda idol: idol['birthday'][5:] > theday, bd))
-
         return be[0]
 
     @staticmethod
@@ -35,3 +33,11 @@ class Aibot_JSON:
         be = list(filter(lambda idol: idol['birthday'][5:] < theday, bd))
 
         return be[-1]
+
+    @staticmethod
+    def from_birthplace(theplace):
+        be = []
+        bd = list(filter(lambda idol: idol['birthplace'] == theplace, data))
+        for idol in bd:
+            be.append(idol['surname'] + ' ' + idol['name'] + ' (' + idol['group'] + ')')
+        return be

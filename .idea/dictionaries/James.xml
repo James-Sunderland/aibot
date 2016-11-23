@@ -8,6 +8,7 @@
       <w>bdstr</w>
       <w>privmsg</w>
       <w>theday</w>
+      <w>theplace</w>
     </words>
   </dictionary>
 </component>

@@ -49,20 +49,34 @@ def get_prev_birthdays(bdate):
     return
 
 
+def get_idols_by_birthplace(place):
+    idols = aijs.from_birthplace(place)
+    if len(idols) == 0:
+        print("There are no idols from " + place)
+        return
+    if len(idols) > 1:
+        names = ''
+        for idol in idols[:-2]:
+            names += (idol + ', ')
+        print('Idols who are from ' + place + ' are ' + names + idols[-2] + ' and ' + idols[-1] + ' (total: ' + str(len(idols)) + ')')
+    else:
+        print('Only ' + idols[0] + ' is from ' + place)
+
 cmd_dict = {
     '!load': aijs.load(),
     '!next': get_next_birthdays('{0:%m-%d}'.format(date.today())),
     '!prev': get_prev_birthdays('{0:%m-%d}'.format(date.today())),
+    '!from': get_idols_by_birthplace('TestTown'),
     '!quiz': 'quiz starting',
     '!time': date.today(),
     '!bday': get_birthdays('{0:%m-%d}'.format(date.today()), 'Today is a birthday of ')
 
 }
 
-a = cmd_dict['!next']
-# print(a)
+a = cmd_dict['!from']
+print(a)
 # for i in a:
-# print(i)
+#    print(i)
 
 '''
 while True:
