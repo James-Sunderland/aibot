@@ -1,0 +1,25 @@
+to-do:
+********************************************************************************************
+D    !birthday returns idol names with their age who has a birthday today
+D        get local time
+D        date comparison
+********************************************************************************************
+    move dictionary of commands to separate file
+D        open external file and read it
+********************************************************************************************
+    !remind returns events/tv-shows that will occur today or tomorrow
+********************************************************************************************
+    !tracker will return new releases on tracker
+********************************************************************************************
+    !forum will return new forum posts
+********************************************************************************************
+    !twitter will return new tweets
+********************************************************************************************
+    !show same birthplace = shows all idols with same birthplace
+    !show same birthday = lists all idols with same birthday
+    !show same surname = lists all idols with same first surname
+    !show ex in group
+    !show bd = shows birthdays by today
+    !show bd Nov = shows birthdays in November
+    !show bd next = shows idol whose next birthday is coming
+    !show bd last = shows idol whose birthday just passed
