@@ -33,7 +33,7 @@ def get_birthdays(bdate, bdst):
                 bdstr += ', '           # add a comma
         bdstr += ' and ' + bday_idols[-1]   # for the last idol add 'and' before her name
     # add birth date using string for Month and number for the day
-    bdstr += (' at ' + calendar.month_name[int(bdate[0:2])]) + ' ' + bdate[3:5]
+    bdstr += (' on ' + calendar.month_name[int(bdate[0:2])]) + ' ' + bdate[3:5]
     return bdstr
 
 
