@@ -3,7 +3,7 @@ import socket
 channel = "#aidoru-quiz"
 server = "chat.freenode.org"
 nickname = "aiborg"
-password = "AiBorGftW"
+message = "いらっしゃいませ　人間様"
 
 
 class IRC:
@@ -13,8 +13,6 @@ class IRC:
         self.irc = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
     def send(self, chan, msg):
-        # print('sending..')
-        # self.irc.send(bytes("PRIVMSG %s :test message\n" % channel, 'utf8'))
         self.irc.send(bytes("PRIVMSG %s :%s\n" % (chan, msg), 'utf8'))
 
     def connect(self, server, channel, botnick):
@@ -25,8 +23,7 @@ class IRC:
         self.irc.send(bytes("NICK %s\n" % botnick, 'utf8'))
         self.irc.send(bytes("USER %s %s Ibot :%s\n" % (botnick, botnick, botnick), 'utf8'))
         self.irc.send(bytes("JOIN %s\n" % channel, 'utf8'))
-        self.irc.send(bytes("PRIVMSG NickServ IDENTIFY %s %s\n" % (botnick, password), 'utf8'))
-        self.irc.send(bytes("PRIVMSG %s :Hello Master\n" % channel, 'utf8'))
+        self.irc.send(bytes("PRIVMSG %s :%s\n" % (channel, message), 'utf8'))
 
     def get_text(self):
         text = self.irc.recv(2040)  # receive the text

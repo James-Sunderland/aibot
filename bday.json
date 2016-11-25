@@ -1,13 +1,65 @@
 [
+	{"group":"AKB48", "surname":"Itano",  "name":"Tomomi", "generation":"1", "birthday":"1991-07-03", "birthplace":"Kanagawa", "status":"0"},
+	{"group":"AKB48", "surname":"Usami",  "name":"Yuki", "generation":"1", "birthday":"1984-12-06", "birthplace":"Saitama", "status":"0"},
+	{"group":"AKB48", "surname":"Urano",  "name":"Kazumi", "generation":"1", "birthday":"1985-10-23", "birthplace":"Saitama", "status":"0"},
+	{"group":"AKB48", "surname":"Ohe",  "name":"Tomomi", "generation":"1", "birthday":"1989-06-15", "birthplace":"Tokyo", "status":"0"},
+	{"group":"AKB48", "surname":"Oshima",  "name":"Mai", "generation":"1", "birthday":"1987-09-11", "birthplace":"Chiba", "status":"0"},
+	{"group":"AKB48", "surname":"Orii",  "name":"Ayumi", "generation":"1", "birthday":"1985-07-20", "birthplace":"Nagano", "status":"0"},
+	{"group":"AKB48", "surname":"Kawasaki",  "name":"Nozomi", "generation":"1", "birthday":"1987-08-23", "birthplace":"Tokyo", "status":"0"},
+	{"group":"AKB48", "surname":"Komatani",  "name":"Hitomi", "generation":"1", "birthday":"1988-12-16", "birthplace":"Saitama", "status":"0"},
+	{"group":"AKB48", "surname":"Kojima",  "name":"Haruna", "generation":"1", "birthday":"1988-04-19", "birthplace":"Saitama", "status":"1"},
+	{"group":"AKB48", "surname":"Sato",  "name":"Yukari", "generation":"1", "birthday":"1988-11-22", "birthplace":"Shizuoka", "status":"0"},
+	{"group":"AKB48", "surname":"Takahashi",  "name":"Minami", "generation":"1", "birthday":"1991-04-08", "birthplace":"Tokyo", "status":"0"},
+	{"group":"AKB48", "surname":"Tojima",  "name":"Hana", "generation":"1", "birthday":"1988-07-11", "birthplace":"Saitama", "status":"0"},
+	{"group":"AKB48", "surname":"Nakanishi",  "name":"Rina", "generation":"1", "birthday":"1988-06-26", "birthplace":"Oita", "status":"0"},
+	{"group":"AKB48", "surname":"Narita",  "name":"Risa", "generation":"1", "birthday":"1991-03-01", "birthplace":"Tokyo", "status":"0"},
+	{"group":"AKB48", "surname":"Hirajima",  "name":"Natsumi", "generation":"1", "birthday":"1992-05-28", "birthplace":"Tokyo", "status":"0"},
+	{"group":"AKB48", "surname":"Hoshino",  "name":"Michiru", "generation":"1", "birthday":"1985-11-19", "birthplace":"Chiba", "status":"0"},
 	{"group":"AKB48", "surname":"Maeda",  "name":"Atsuko", "generation":"1", "birthday":"1991-07-10", "birthplace":"Chiba", "status":"0"},
-	{"group":"AKB48", "surname":"Watanabe", "name":"Mayu", "generation":"1", "birthday":"1994-03-26", "birthplace":"Saitama", "status":"1"},
+	{"group":"AKB48", "surname":"Masuyama",  "name":"Kayano", "generation":"1", "birthday":"1994-02-10", "birthplace":"Saitama", "status":"0"},
+	{"group":"AKB48", "surname":"Minegishi",  "name":"Minami", "generation":"1", "birthday":"1992-11-15", "birthplace":"Tokyo", "status":"1"},
+	{"group":"AKB48", "surname":"Watanabe",  "name":"Shiho", "generation":"1", "birthday":"1987-10-25", "birthplace":"Hyogo", "status":"0"},
+	{"group":"AKB48", "surname":"Shinoda",  "name":"Mariko", "generation":"1", "birthday":"1986-03-11", "birthplace":"Fukuoka", "status":"0"},
 
+	{"group":"AKB48", "surname":"Akimoto",  "name":"Sayaka", "generation":"2", "birthday":"1988-07-26", "birthplace":"Chiba", "status":"0"},
+	{"group":"AKB48", "surname":"Imai",  "name":"Yuu", "generation":"2", "birthday":"1985-04-17", "birthplace":"Saitama", "status":"0"},
+	{"group":"AKB48", "surname":"Uemura",  "name":"Ayako", "generation":"2", "birthday":"1986-02-06", "birthplace":"Saitama", "status":"0"},
+	{"group":"AKB48", "surname":"Umeda",  "name":"Ayaka", "generation":"2", "birthday":"1989-01-03", "birthplace":"Fukuoka", "status":"0"},
+	{"group":"AKB48", "surname":"Oshima",  "name":"Yuko", "generation":"2", "birthday":"1988-10-17", "birthplace":"Tochigi", "status":"0"},
+	{"group":"AKB48", "surname":"Ohori",  "name":"Megumi", "generation":"2", "birthday":"1983-08-25", "birthplace":"Tokyo", "status":"0"},
+	{"group":"AKB48", "surname":"Oku",  "name":"Manami", "generation":"2", "birthday":"1995-11-22", "birthplace":"Tokyo", "status":"0"},
+	{"group":"AKB48", "surname":"Ono",  "name":"Erena", "generation":"2", "birthday":"1993-11-26", "birthplace":"Tokyo", "status":"0"},
+	{"group":"AKB48", "surname":"Kasai",  "name":"Tomomi", "generation":"2", "birthday":"1991-11-16", "birthplace":"Tokyo", "status":"0"},
+	{"group":"AKB48", "surname":"Kobayashi",  "name":"Kana", "generation":"2", "birthday":"1991-05-17", "birthplace":"Saitama", "status":"0"},
+	{"group":"AKB48", "surname":"Sato",  "name":"Natsuki", "generation":"2", "birthday":"1990-07-01", "birthplace":"Hokkaido", "status":"0"},
+	{"group":"AKB48", "surname":"Takada",  "name":"Ayana", "generation":"2", "birthday":"1988-07-21", "birthplace":"Aichi", "status":"0"},
+	{"group":"AKB48", "surname":"Noro",  "name":"Kayo", "generation":"2", "birthday":"1983-10-28", "birthplace":"Tokyo", "status":"0"},
+	{"group":"AKB48", "surname":"Hayano",  "name":"Kaoru", "generation":"2", "birthday":"1992-12-12", "birthplace":"Tokyo", "status":"0"},
+	{"group":"AKB48", "surname":"Masuda",  "name":"Yuka", "generation":"2", "birthday":"1991-08-03", "birthplace":"Osaka", "status":"0"},
+	{"group":"AKB48", "surname":"Matsubara",  "name":"Natsumi", "generation":"2", "birthday":"1990-06-19", "birthplace":"Fukuoka", "status":"0"},
+	{"group":"AKB48", "surname":"Miyazawa",  "name":"Sae", "generation":"2", "birthday":"1990-08-13", "birthplace":"Tokyo", "status":"0"},
+
+	{"group":"AKB48", "surname":"Inoue",  "name":"Naru", "generation":"3", "birthday":"1991-12-18", "birthplace":"Osaka", "status":"0"},
+	{"group":"AKB48", "surname":"Kashiwagi",  "name":"Yuki", "generation":"3", "birthday":"1991-07-15", "birthplace":"Kagoshima", "status":"1"},
+	{"group":"AKB48", "surname":"Katayama",  "name":"Haruka", "generation":"3", "birthday":"1990-05-10", "birthplace":"Aichi", "status":"0"},
+	{"group":"AKB48", "surname":"Kikuchi",  "name":"Ayaka", "generation":"3", "birthday":"1993-06-30", "birthplace":"Tokyo", "status":"0"},
+	{"group":"AKB48", "surname":"Saotome",  "name":"Miki", "generation":"3", "birthday":"1991-06-22", "birthplace":"Tochigi", "status":"0"},
+	{"group":"AKB48", "surname":"Tanabe",  "name":"Miku", "generation":"3", "birthday":"1992-11-02", "birthplace":"Shiga", "status":"1"},
+	{"group":"AKB48", "surname":"Nakaya",  "name":"Sayaka", "generation":"3", "birthday":"1991-10-15", "birthplace":"Iwate", "status":"0"},
+	{"group":"AKB48", "surname":"Noguchi",  "name":"Reina", "generation":"3", "birthday":"1993-04-15", "birthplace":"Saitama", "status":"0"},
+	{"group":"AKB48", "surname":"Matsuoka",  "name":"Yuki", "generation":"3", "birthday":"1987-10-07", "birthplace":"Kanagawa", "status":"0"},
+	{"group":"AKB48", "surname":"Yonezawa",  "name":"Rumi", "generation":"3", "birthday":"1991-06-06", "birthplace":"Saitama", "status":"0"},
+	{"group":"AKB48", "surname":"Watanabe", "name":"Mayu", "generation":"3", "birthday":"1994-03-26", "birthplace":"Saitama", "status":"1"},
+
+	{"group":"AKB48", "surname":"Oya",  "name":"Shizuka", "generation":"4", "birthday":"1991-12-28", "birthplace":"Fukuoka", "status":"1"},
+	{"group":"AKB48", "surname":"Nakata",  "name":"Chisato", "generation":"4", "birthday":"1990-10-08", "birthplace":"Saitama", "status":"1"},
+	
 	{"group":"SKE48", "surname":"Oya", "name":"Masana", "generation":"1", "birthday":"1990-11-06", "birthplace":"Aichi", "status":"1"},
 	{"group":"SKE48", "surname":"Matsui", "name":"Jurina", "generation":"1", "birthday":"1997-03-08", "birthplace":"Aichi", "status":"1"},
 
 	{"group":"Nogizaka46", "surname":"Akimoto", "name":"Manatsu", "generation":"1", "birthday":"1993-08-20", "birthplace":"Miyagi", "status":"1"},
 	{"group":"Nogizaka46", "surname":"Ando", "name":"Mikumo", "generation":"1", "birthday":"1993-05-21", "birthplace":"Kanagawa", "status":"0"},
-	{"group":"Nogizaka46", "surname":"Ikuta", "name":"Erika", "generation":"1", "birthday":"1997-01-22", "birthplace":"North Rhine-Westphalia, Germany", "status":"1"},
+	{"group":"Nogizaka46", "surname":"Ikuta", "name":"Erika", "generation":"1", "birthday":"1997-01-22", "birthplace":"North Rhine-Westphalia (Germany)", "status":"1"},
 	{"group":"Nogizaka46", "surname":"Ikoma", "name":"Rina", "generation":"1", "birthday":"1995-12-29", "birthplace":"Akita", "status":"1"},
 	{"group":"Nogizaka46", "surname":"Ichiki", "name":"Rena", "generation":"1", "birthday":"1996-01-22", "birthplace":"Chiba", "status":"0"},
 	{"group":"Nogizaka46", "surname":"Ito", "name":"Nene", "generation":"1", "birthday":"1995-12-12", "birthplace":"Gifu", "status":"0"},
@@ -106,8 +158,56 @@
 	{"group":"Keyakizaka46", "surname":"Higashimura", "name":"Mei", "generation":"2", "birthday":"1998-08-23", "birthplace":"Nara", "status":"1"},
 	
 	
-	{"group":"Morning Musume", "surname":"Kudo", "name":"Haruka", "generation":"10", "birthday":"1999-10-27", "birthplace":"Saitama", "status":"1"},
+	{"group":"Morning Musume", "surname":"Nakazawa", "name":"Yuko", "generation":"1", "birthday":"1973-06-19", "birthplace":"Kyoto", "status":"0"},
+	{"group":"Morning Musume", "surname":"Ishiguro", "name":"Aya", "generation":"1", "birthday":"1978-05-12", "birthplace":"Hokkaido", "status":"0"},
+	{"group":"Morning Musume", "surname":"Iida", "name":"Kaori", "generation":"1", "birthday":"1981-08-08", "birthplace":"Hokkaido", "status":"0"},
+	{"group":"Morning Musume", "surname":"Abe", "name":"Natsumi", "generation":"1", "birthday":"1981-08-10", "birthplace":"Hokkaido", "status":"0"},
+	{"group":"Morning Musume", "surname":"Fukuda", "name":"Asuka", "generation":"1", "birthday":"1984-12-17", "birthplace":"unknown", "status":"0"},
+	
+	{"group":"Morning Musume", "surname":"Yasuda", "name":"Kei", "generation":"2", "birthday":"1980-12-06", "birthplace":"Chiba", "status":"0"},
+	{"group":"Morning Musume", "surname":"Yaguchi", "name":"Mari", "generation":"2", "birthday":"1983-01-20", "birthplace":"Kanagawa", "status":"0"},
+	{"group":"Morning Musume", "surname":"Ichii", "name":"Sayaka", "generation":"2", "birthday":"1983-12-31", "birthplace":"Chiba", "status":"0"},
+	
+	{"group":"Morning Musume", "surname":"Goto", "name":"Maki", "generation":"3", "birthday":"1985-09-23", "birthplace":"Tokyo", "status":"0"},
+	
+	{"group":"Morning Musume", "surname":"Ishikawa", "name":"Rika", "generation":"4", "birthday":"1985-01-19", "birthplace":"unknown", "status":"0"},
+	{"group":"Morning Musume", "surname":"Yoshizawa", "name":"Hitomi", "generation":"4", "birthday":"1985-04-12", "birthplace":"Saitama", "status":"0"},
+	{"group":"Morning Musume", "surname":"Tsuji", "name":"Nozomi", "generation":"4", "birthday":"1987-06-17", "birthplace":"Tokyo", "status":"0"},
+	{"group":"Morning Musume", "surname":"Kago", "name":"Ai", "generation":"4", "birthday":"1988-02-07", "birthplace":"Nara", "status":"0"},
+	
+	{"group":"Morning Musume", "surname":"Takahashi", "name":"Ai", "generation":"5", "birthday":"1986-09-14", "birthplace":"unknown", "status":"0"},
+	{"group":"Morning Musume", "surname":"Konno", "name":"Asami", "generation":"5", "birthday":"1987-05-07", "birthplace":"Hokkaido", "status":"0"},
+	{"group":"Morning Musume", "surname":"Ogawa", "name":"Makoto", "generation":"5", "birthday":"1987-10-29", "birthplace":"Niigata", "status":"0"},
+	{"group":"Morning Musume", "surname":"Niigaki", "name":"Risa", "generation":"5", "birthday":"1988-10-20", "birthplace":"Kanagawa", "status":"0"},
+	
+	{"group":"Morning Musume", "surname":"Fujimoto", "name":"Miki", "generation":"6", "birthday":"1985-02-26", "birthplace":"Hokkaido", "status":"0"},
+	{"group":"Morning Musume", "surname":"Kamei", "name":"Eri", "generation":"6", "birthday":"1988-12-23", "birthplace":"Tokyo", "status":"0"},
+	{"group":"Morning Musume", "surname":"Michishige", "name":"Sayumi", "generation":"6", "birthday":"1989-07-13", "birthplace":"Yamaguchi", "status":"0"},
+	{"group":"Morning Musume", "surname":"Tanaka", "name":"Reina", "generation":"6", "birthday":"1989-11-11", "birthplace":"Fukuoka", "status":"0"},
+	
+	{"group":"Morning Musume", "surname":"Kusumi", "name":"Koharu", "generation":"7", "birthday":"1992-07-15", "birthplace":"Niigata", "status":"0"},
+	
+	{"group":"Morning Musume", "surname":"Mitsui", "name":"Aika", "generation":"8", "birthday":"1993-01-12", "birthplace":"Shiga", "status":"0"},
+	{"group":"Morning Musume", "surname":"", "name":"Junjun", "generation":"8", "birthday":"1988-01-11", "birthplace":"China", "status":"0"},
+	{"group":"Morning Musume", "surname":"", "name":"Linlin", "generation":"8", "birthday":"1991-03-11", "birthplace":"China", "status":"0"},
+	
+	{"group":"Morning Musume", "surname":"Fukumura", "name":"Mizuki", "generation":"9", "birthday":"1996-10-30", "birthplace":"Tokyo", "status":"1"},
+	{"group":"Morning Musume", "surname":"Ikuta", "name":"Erina", "generation":"9", "birthday":"1997-07-07", "birthplace":"Fukuoka", "status":"1"},
+	{"group":"Morning Musume", "surname":"Sayashi", "name":"Riho", "generation":"9", "birthday":"1998-05-28", "birthplace":"Hiroshima", "status":"0"},
+	{"group":"Morning Musume", "surname":"Suzuki", "name":"Kanon", "generation":"9", "birthday":"1998-08-05", "birthplace":"Aichi", "status":"0"},
+	
 	{"group":"Morning Musume", "surname":"Iikubo", "name":"Haruna", "generation":"10", "birthday":"1994-11-07", "birthplace":"Tokyo", "status":"1"},
+	{"group":"Morning Musume", "surname":"Ishida", "name":"Ayumi", "generation":"10", "birthday":"1997-01-07", "birthplace":"Miyagi", "status":"1"},
+	{"group":"Morning Musume", "surname":"Sato", "name":"Masaki", "generation":"10", "birthday":"1999-05-07", "birthplace":"Hokkaido", "status":"1"},
+	{"group":"Morning Musume", "surname":"Kudo", "name":"Haruka", "generation":"10", "birthday":"1999-10-27", "birthplace":"Saitama", "status":"1"},
+	
+	{"group":"Morning Musume", "surname":"Oda", "name":"Sakura", "generation":"11", "birthday":"1999-03-12", "birthplace":"Kanagawa", "status":"1"},
+	
+	{"group":"Morning Musume", "surname":"Ogata", "name":"Haruna", "generation":"12", "birthday":"1999-02-15", "birthplace":"Osaka", "status":"1"},
+	{"group":"Morning Musume", "surname":"Nonaka", "name":"Miki", "generation":"12", "birthday":"1999-10-07", "birthplace":"Shizuoka", "status":"1"},
+	{"group":"Morning Musume", "surname":"Makino", "name":"Maria", "generation":"12", "birthday":"2001-08-02", "birthplace":"Aichi", "status":"1"},
+	{"group":"Morning Musume", "surname":"Haga", "name":"Akane", "generation":"12", "birthday":"2002-03-07", "birthplace":"Nagano", "status":"1"},
+
 
 	{"group":"Juice=Juice", "surname":"Miyazaki", "name":"Yuka", "generation":"1", "birthday":"1994-04-02", "birthplace":"Ishikawa", "status":"1"},
 	{"group":"Juice=Juice", "surname":"Kanazawa", "name":"Tomoko", "generation":"1", "birthday":"1995-07-02", "birthplace":"Saitama", "status":"1"},
@@ -119,9 +219,6 @@
 	{"group":"Team Syachihoko", "surname":"Sakamoto", "name":"Haruna", "generation":"1", "birthday":"1999-02-02", "birthplace":"Aichi", "status":"1"},
 
 	{"group":"NamaUdon", "surname":"Higashi", "name":"Risa", "generation":"1", "birthday":"1998-03-01", "birthplace":"Kanagawa", "status":"1"},
-	{"group":"NamaUdon", "surname":"Nishii", "name":"Marina", "generation":"1", "birthday":"1997-08-22", "birthplace":"Saitama", "status":"1"},
-
-	{"group":"Test48", "surname":"Doe", "name":"Jane", "generation":"1", "birthday":"1997-11-26", "birthplace":"TestTown", "status":"1"},
-	{"group":"Pass48", "surname":"Hoe", "name":"Mony", "generation":"1", "birthday":"1997-11-26", "birthplace":"TestTown", "status":"1"}
+	{"group":"NamaUdon", "surname":"Nishii", "name":"Marina", "generation":"1", "birthday":"1997-08-22", "birthplace":"Saitama", "status":"1"}
 
 ]

@@ -23,3 +23,18 @@ D        open external file and read it
     !show bd Nov = shows birthdays in November
     !show bd next = shows idol whose next birthday is coming
     !show bd last = shows idol whose birthday just passed
+********************************************************************************************
+    !list group_name = shows all idols in the group, if there are more than 10
+                        idol in the group then it will say so and ask to specify
+                        the generation
+
+    !groups = shows all groups in data file
+
+    data file with links to image url of idols
+    "idol":"idol name", "link":"http://tumblr.com/idol.jpg"
+
+    picture processing
+        blurred
+        inverse colors
+        cut into blocked and shuffle those blocks
+
